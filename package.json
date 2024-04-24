@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "discord.js": "^14.14.1",
+    "glob": "^10.3.12"
   },
   "name": "typescript-discord",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "clean": "del /s /q build",
     "build": "tsc --build",
