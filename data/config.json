@@ -1,3 +1,5 @@
 {
-    "token": "insert own token here"
+    "token": "Use your own token",
+    "discordClientId": "Use your own discord client id",
+    "guildId": "Use your own guild id"
 }
